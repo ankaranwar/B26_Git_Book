@@ -9,3 +9,6 @@ part 2 for upates
 I'm typing some text here
 
 adding some more texts
+
+I'll keep adding new changes here. I'm adding some tests here.
+
